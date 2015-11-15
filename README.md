@@ -60,3 +60,8 @@ http://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.333.4.scN
 源码中，因为是针对特定问题的，所以一些对数据的加载、处理 或 评分细节不必深究，
 重要的是整体的流程
 源码中保留了一些被注释了的代码，大多是一些调试代码
+
+对应的测试大数据集合下载地址：
+
+http://pan.baidu.com/s/1qW49CcO
+http://download.csdn.net/detail/xinxing__8185/9270655
