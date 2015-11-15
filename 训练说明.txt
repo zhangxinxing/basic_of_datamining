@@ -1,0 +1,68 @@
+线下训练
+采用基本的线性模型
+首先训练 的人群 时间点
+
+均值 0.406906789909
+全零 0.35023229409
+
+首先训练 的人群 时间点 2014-7
+
+linear 0.389190507465
+linear_model.Ridge 0.389207710686
+linear_model.RidgeCV  0.100886775479
+linear_model.Lasso 0.389436412339
+
+linear_model.LassoLars 0.075789298989
+
+linear_model.BayesianRidge 0.389113598944
+
+
+首先训练 的人群 时间点 2014-8
+
+linear 0.389635767319
+linear_model.Ridge 0.389551775119
+linear_model.RidgeCV  0.376483398385
+linear_model.Lasso 0.390110373846
+
+linear_model.LassoLars 0.0771979392564
+
+linear_model.BayesianRidge 0.389423256934
+
+首先训练 的人群 时间点 2014-9
+
+linear 0.390794454896
+linear_model.Ridge 
+linear_model.RidgeCV  
+linear_model.Lasso 0.392222322293
+
+linear_model.LassoLars
+
+linear_model.BayesianRidge 
+
+首先训练 的人群 时间点 2014-10
+
+linear 0.390794454896
+linear_model.Ridge 
+linear_model.RidgeCV  
+linear_model.Lasso 0.393755432929
+
+linear_model.LassoLars
+
+linear_model.BayesianRidge 
+
+首先训练 的人群 时间点 2014-11
+
+linear 
+linear_model.Ridge 
+linear_model.RidgeCV  
+linear_model.Lasso 0.389704580206
+0.389546715348
+0.38962868364
+linear_model.LassoLars
+
+linear_model.BayesianRidge 
+
+
+全部人员的2个月数据
+linear 0.393991218261
+linear_model.Lasso 0.393952764001
