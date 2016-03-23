@@ -1,9 +1,9 @@
 # basic_of_datamining
 basic_of_datamining
-利用python中的pandas，sklean进行数据挖掘
+利用python中的pandas，sklearn进行数据挖掘
 
 pandas用来对数据集进行处理
-sklean中提供了一些机器学习方法的实现
+sklearn中提供了一些机器学习方法的实现
 
 要利用这两个库，首先应该安装，其中numpy，scipy是两个比较重要的依赖库
 
@@ -11,7 +11,7 @@ sklean中提供了一些机器学习方法的实现
 sudo apt-get install python-pandas
 
 
-sklean的安装可以参照：
+sklearn的安装可以参照：
 http://blog.csdn.net/wbgxx333/article/details/12168675
 
 
